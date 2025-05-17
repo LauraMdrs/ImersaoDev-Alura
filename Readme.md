@@ -1,0 +1,1 @@
+Durante a Imersão Dev 9° Edição da Alura, mergulhei nos conceitos de lógica de programação com Javascript, HTML e CSS enquanto desenvolvi cinco jogos na prática. Tudo isso com desafios reais e com o suporte dos professore para ajudar a evoluir.
